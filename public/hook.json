@@ -1,0 +1,101 @@
+{
+  "width": 894,
+  "height": 1263,
+  "highlights": [
+    {
+      "key": "nazwa",
+      "value": "Nordenix Automatyka Sp. z o.o.",
+      "x": 122.0,
+      "y": 272.0,
+      "w": 226.05530296810116,
+      "h": 23.0,
+      "angle": 1.2673989852332606
+    },
+    {
+      "key": "krs",
+      "value": "9997873010",
+      "x": 605.0,
+      "y": 305.0,
+      "w": 82.74725033508082,
+      "h": 24.0,
+      "angle": 1.2590452071752638
+    },
+    {
+      "key": "nip",
+      "value": "9991785572",
+      "x": 742.0,
+      "y": 308.0,
+      "w": 79.13791706480136,
+      "h": 24.0,
+      "angle": 1.974934010881991
+    },
+    {
+      "key": "pelnomocnik",
+      "value": "Sylwia Sikora",
+      "x": 151.0,
+      "y": 379.0,
+      "w": 99.04544411531506,
+      "h": 24.0,
+      "angle": 1.7357045889283889
+    },
+    {
+      "key": "pelnomocnik",
+      "value": "Karolina Kaczmarek",
+      "x": 151.0,
+      "y": 402.0,
+      "w": 146.03081866510234,
+      "h": 23.0,
+      "angle": 1.177144885982063
+    },
+    {
+      "key": "podpisujacy",
+      "value": "Monika Kaczmarek",
+      "x": 422.0,
+      "y": 323.0,
+      "w": 128.03515142334936,
+      "h": 24.0,
+      "angle": 1.3426240265377571
+    },
+    {
+      "key": "podpisujacy",
+      "value": "Dorota Szulc",
+      "x": 682.0,
+      "y": 329.0,
+      "w": 89.02246907382428,
+      "h": 24.0,
+      "angle": 1.2873289415250384
+    }
+  ],
+  "output": {
+    "mocodawca": [
+      {
+        "data": {
+          "imie_nazwisko": null,
+          "krs": "9997873010",
+          "nazwa": "Nordenix Automatyka Sp. z o.o.",
+          "nip": "9991785572",
+          "typ": "osoba_prawna"
+        },
+        "podpisujacy": [
+          {
+            "imie_nazwisko": "Dorota Szulc"
+          },
+          {
+            "imie_nazwisko": "Monika Kaczmarek"
+          }
+        ]
+      }
+    ],
+    "pelnomocnicy": [
+      {
+        "imie_nazwisko": "Sylwia Sikora",
+        "pesel": null
+      },
+      {
+        "imie_nazwisko": "Karolina Kaczmarek",
+        "pesel": null
+      }
+    ]
+  },
+  "document_type": "pelnomocnictwo"
+}
